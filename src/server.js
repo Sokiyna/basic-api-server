@@ -16,7 +16,11 @@ app.use(cors());
 app.use('/api/v1/food', foodRouter);
 app.use('/api/v1/clothes', clothesRouter);
 
+app.get('/', (req, res) => {
+    res.send('Hello world');
+  });
 
+  
 app.use('*', notFoundHandler);
 app.use(errorHandler);
 
