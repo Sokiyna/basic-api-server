@@ -9,4 +9,4 @@ The first half of the course (the "Backend Section") is made up of 4 modules:
 
 Heroko URl: https://sokiyna-basic-express-server.herokuapp.com/person?name 
 GitHub Actions: https://github.com/Sokiyna/basic-express-server/actions 
-PR in GitHub: https://github.com/Sokiyna/basic-express-server/pull/1
+PR in GitHub: https://github.com/Sokiyna/basic-api-server/pull/1
