@@ -17,6 +17,8 @@ function getFood(req, res) {
     const resObj = food.read(req.params.id);
     res.json(resObj);
 }
+  
+
 
 function createFood(req, res) {
     const resObj = food.create(req.body);
