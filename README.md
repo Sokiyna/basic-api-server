@@ -7,6 +7,11 @@ This course is divided into 8 Modules, extending over 2 sections.
 
 The first half of the course (the "Backend Section") is made up of 4 modules:
 
+### UML 
+
+![uml](./uml.png)
 Heroko URl: https://sokiyna-basic-api-server.herokuapp.com/
 GitHub Actions: https://github.com/Sokiyna/basic-api-server/actions
 PR in GitHub: https://github.com/Sokiyna/basic-api-server/pull/3
+
+
